@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/call.cpp
+iostream
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/iostream
+dlist.h
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/dlist.h
+string
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/string
+
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/dlist.h
+dlist_impl.h
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/dlist_impl.h
+
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/dlist_impl.h
+iostream
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/iostream
+dlist.h
+C:/Users/hyb_2001/Desktop/Project-5-Related-Files/dlist.h
+
